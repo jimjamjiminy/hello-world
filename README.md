@@ -1,2 +1,3 @@
 # hello-world
-Getting the hang of things
+
+This is an interesting way to code.
